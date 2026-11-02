@@ -1,0 +1,2 @@
+# Intelig-ncia-Artificial-aplicada-a-previs-o-de-chuvas-intensas-em-Belo-Horizonte
+Sistema de previsão probabilística de chuvas intensas em Belo Horizonte (MG), desenvolvido com Python, XGBoost e Streamlit. Utiliza dados meteorológicos históricos para estimar o risco de precipitação ≥ 30 mm em 24 horas, permitindo análises retrospectivas e avaliação do desempenho preditivo de modelos de Machine Learning.
