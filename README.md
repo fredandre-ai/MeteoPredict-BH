@@ -1,4 +1,4 @@
-# Inteligência Artificial aplicada a previsão de chuvas intensas em Belo Horizonte
+# Inteligencia Artificial aplicada a previsao de chuvas intensas em Belo Horizonte
 MeteoPredict BH
 Protótipo de análise retrospectiva de previsões probabilísticas de chuva intensa em Belo Horizonte (MG), desenvolvido com Python, Machine Learning e Streamlit.
 
