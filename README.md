@@ -2,6 +2,11 @@
 MeteoPredict BH
 Protótipo de análise retrospectiva de previsões probabilísticas de chuva intensa em Belo Horizonte (MG), desenvolvido com Python, Machine Learning e Streamlit.
 
+Breve demosntração:
+
+https://github.com/user-attachments/assets/39ac1d56-b4b0-4444-b526-47549cf55f60
+
+
 O MeteoPredict BH investiga a possibilidade de estimar, a partir de observações meteorológicas disponíveis até um instante de referência, a probabilidade de precipitação acumulada ≥ 30 mm nas 24 horas seguintes na estação automática Pampulha (A521), do Instituto Nacional de Meteorologia (INMET).
 
 [!NOTA]
